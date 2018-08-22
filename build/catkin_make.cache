@@ -1,0 +1,2 @@
+arm/src/arm_control:arm/src/arm_description:arm/src/arm_gazebo:arm/src/arm_moveit:tut_1:v3
+-DCATKIN_DEVEL_PREFIX=/home/neo/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/neo/catkin_ws/install -G Unix Makefiles

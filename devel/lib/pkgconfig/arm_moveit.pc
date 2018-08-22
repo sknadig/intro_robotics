@@ -1,0 +1,8 @@
+prefix=/home/neo/catkin_ws/devel
+
+Name: arm_moveit
+Description: Description of arm_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/neo/catkin_ws/devel/lib 
+Requires: 

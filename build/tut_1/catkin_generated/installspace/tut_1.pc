@@ -1,0 +1,8 @@
+prefix=/home/neo/catkin_ws/install
+
+Name: tut_1
+Description: Description of tut_1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/neo/catkin_ws/install/lib 
+Requires: 
